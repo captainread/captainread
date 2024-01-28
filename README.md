@@ -1,8 +1,8 @@
 ### Hey, I'm Alice.
 
-🖥️ Software & Web developer.<br />
+🖥️ Digital learning developer.<br />
 🎓 Northcoders graduate.<br />
-🎨 View my [portfolio](https://captainread.github.io/readwritten/).<br />
+🎨 View my [coding portfolio](https://captainread.github.io/readwritten/).<br />
 👩‍💻 View my [LinkedIn](https://www.linkedin.com/in/alice-read-238439b0/).<br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
